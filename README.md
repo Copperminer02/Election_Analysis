@@ -21,12 +21,32 @@ The Colorado Board of Elections has sepcifically requested the following infroma
 
 ## Election-Audit Method and Results
 
-All calculations necessary to answer the project objectives stated in the **Project Overview** were completed with ***Python 3.7.6*** and can be found in the  attched ***PyPoll_Challenge.py*** script.  Results for the analysis can be found by running the ***PyPoll_Challenge.py*** script in the command prompt, terminal, or gitbash with the python.  The results can be seen either in the terminal output or in the resulting output file (***election_results.txt***) created by the python script.  The results for both can be seen below.
+### Election_Audit Results Summary
+All calculations necessary to answer the project objectives stated in the **Project Overview** were completed with ***Python 3.7.6*** with the attached ***PyPoll_Challenge.py*** script.  Results for the analysis can be found by running the ***PyPoll_Challenge.py*** script in the command prompt, terminal, or gitbash with the python.  **The election audit results are:**
+
+1. **The Total number of votes  = 369,711**
+
+2. **County Participation in Vote**: Denver had the largest voter turnout with 82.8% of the total vote.  
+   - **Jefferson: 38,855 votes (10.5% of total vote)**
+   - **Denver: 306,055 votes (82.8% pf total vote)**
+   - **Arapahoe: 24,801 votes (6.7% of total vote)**
+
+3. **Results by Canidate**:  Three candidates recieved votes during the election:
+   -**Charles Casper Stockham: 85,213 votes (23.0% of total popular vote) 
+   -Diana DeGette: 272,892 votes (73.8% of total popular vote)
+   -Raymon Anthony Doane: 11,606 votes (3.1% of total popular vote)
+   
+4. **Winnier of the Election: *Diana DeGette*
+   -Winning Vote Count: 272,892
+   -Winning Percentage: 73.8%
+
+The results from the script create a terminal output and the resulting output file (***election_results.txt***) created by the python script.  The results for both can be seen below.
 
 ![image](https://user-images.githubusercontent.com/91850824/147888868-8839db4b-17ed-4f3b-8ab6-da4fcb71f434.png)
 
 ![image](https://user-images.githubusercontent.com/91850824/147888876-e04e201f-478a-4e48-8a02-cd6ef54a56a5.png)
 
+### Election_Audit Results Code Location and Decription
 The ***PyPoll_Challenge.py*** script accesses the ***election_results.csv*** provided by the Colorado Board of Elections and sets the target output file to  ***election_results.txt***.  Variables were set to represent the file loaded (***election_results.csv***) and the target output file (***election_results.txt***) in the rest of the code.
 
 ![image](https://user-images.githubusercontent.com/91850824/147888293-0e2f3efe-1d74-4c52-97d5-621887843024.png)
