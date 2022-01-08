@@ -31,14 +31,14 @@ All calculations necessary to answer the project objectives stated in the **Proj
    - **Denver: 306,055 votes (82.8% pf total vote)**
    - **Arapahoe: 24,801 votes (6.7% of total vote)**
 
-3. **Results by Canidate**:  Three candidates recieved votes during the election:
-   -**Charles Casper Stockham: 85,213 votes (23.0% of total popular vote) 
-   -Diana DeGette: 272,892 votes (73.8% of total popular vote)
-   -Raymon Anthony Doane: 11,606 votes (3.1% of total popular vote)
+3. **Results by Canidate**:  Three candidates recieved votes during the election.
+   - **Charles Casper Stockham: 85,213 votes (23.0% of total popular vote)** 
+   - **Diana DeGette: 272,892 votes (73.8% of total popular vote)**
+   - **Raymon Anthony Doane: 11,606 votes (3.1% of total popular vote)**
    
-4. **Winnier of the Election: *Diana DeGette*
-   -Winning Vote Count: 272,892
-   -Winning Percentage: 73.8%
+4. **Winnier of the Election: *Diana DeGette***
+   - **Winning Vote Count: 272,892**
+   - **Winning Percentage: 73.8%**
 
 The results from the script create a terminal output and the resulting output file (***election_results.txt***) created by the python script.  The results for both can be seen below.
 
